@@ -1,19 +1,24 @@
 p {
-  color: rgb(252, 0, 38);
-  font-family: arial;
+    font-family: arial;
 }
 
 h1 { 
-  color: rgb(49, 255, 8); 
-  font-family: arial;
+    color: rgb(49, 255, 8); 
+    font-family: arial;
 }  
 
-h3 {
-  color: rgb(0,85,255);
-  font-family:Arial;
+#blue_arial {
+    color: rgb(0, 149, 255);
+    font-family:Arial;
 }
 
-h4 {
-   color: rgb(250, 103, 5);
-   font-family:Arial;
+#text_css {
+    color: rgb(250, 103, 5);
+    font-family:Arial;
+}
+
+#lyrics_css {
+    color: rgb(250, 103, 5);
+    font-family:Arial;
+    font-style: italic;
 }
